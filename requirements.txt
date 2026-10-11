@@ -1,0 +1,9 @@
+
+gradio
+transformers
+easyocr
+gTTS
+accelerate
+torch
+pillow
+numpy
